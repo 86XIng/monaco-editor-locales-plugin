@@ -22,16 +22,16 @@
     "name": "xxxxst"
   },
   "bugs": {
-    "url": "https://github.com/xxxxst/monaco-editor-locales-plugin/issues"
+    "url": "https://github.com/86XIng/monaco-editor-locales-plugin"
   },
   "bundleDependencies": false,
   "dependencies": {
-	  
+
   },
   "deprecated": false,
   "description": "A webpack plugin for monaco-editor locales setting",
   "devDependencies": {
-	  
+
   },
   "engines": {
     "node": ">=0.12.0 || >= 4.3.0 < 5.0.0 || >=5.10"
@@ -40,15 +40,15 @@
     "lib",
     "index.js"
   ],
-  "homepage": "https://github.com/xxxxst/monaco-editor-locales-plugin",
+  "homepage": "https://github.com/86XIng/monaco-editor-locales-plugin",
   "license": "MIT",
-  "name": "monaco-editor-locales-plugin",
+  "name": "monaco-editor-locales-plugin-wp5",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xxxxst/monaco-editor-locales-plugin.git"
+    "url": "git+https://github.com/86XIng/monaco-editor-locales-plugin.git"
   },
   "scripts": {
-	  
+
   },
-  "version": "0.0.3"
+  "version": "0.0.31"
 }

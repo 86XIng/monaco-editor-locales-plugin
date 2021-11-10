@@ -1,7 +1,7 @@
-# monaco-editor-locales-plugin
+# monaco-editor-locales-plugin for webapck5
 A webpack plugin for monaco-editor locales setting
 
-[https://github.com/xxxxst/monaco-editor-locales-plugin](https://github.com/xxxxst/monaco-editor-locales-plugin)
+[https://www.npmjs.com/package/monaco-editor-locales-plugin-wp5](https://www.npmjs.com/package/monaco-editor-locales-plugin-wp5)
 
 <h2 align="center">Install</h2>
 
